@@ -284,6 +284,8 @@ label {
     right: 0;
     border-top: solid 10px #fff;
     visibility: hidden;
+    background-color: white;
+    text-align: center;
 }
 
 #left-panel {
